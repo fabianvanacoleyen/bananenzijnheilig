@@ -1,2 +1,5 @@
-# bananenzijnheilig
-eat banana you will feel god
+This project is made by Fabian
+
+©Fabian Van Acoleyen
+
+2023
